@@ -1,8 +1,8 @@
 # Woocommerce_pyTest
 
-##Please get the python file from master branch and run it on your machine.
+Please get the python file from master branch and run it on your machine.
 There are two files WooCommerceTestScript1.py , WoocommercetestScript2.py  .Please run it seperately, each file contain following tests.
-
+Python version 3.11.3
 
 WoocommerceTestScript1 
 -----------------------
@@ -18,4 +18,4 @@ WoocommercetestScript2
 1. Checkout page field test ( To check whether the fields in the checkout page working fine)
 
 
-****Thank you
+****Thank you****
